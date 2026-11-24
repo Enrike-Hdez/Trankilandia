@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Center" Margin="0,301,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="0,301,0,0" VerticalAlignment="Top" Click="Button_OpenArchive"/>
         <Image HorizontalAlignment="Left" Height="238" Margin="400,53,0,0" VerticalAlignment="Top" Width="187" RenderTransformOrigin="0.5,0.5" Name="ComicImage" Stretch="Uniform">
             <Image.RenderTransform>
                 <TransformGroup>
